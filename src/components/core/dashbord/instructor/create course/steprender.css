@@ -1,0 +1,92 @@
+@media (max-width: 220px) {
+ .my-div{
+
+ }
+}
+
+/* For screen width between 221px and 300px */
+@media (min-width: 221px) and (max-width: 300px) {
+ .my-div{
+    width: 50px;
+ }
+}
+
+/* For screen width between 301px and 400px */
+@media (min-width: 301px) and (max-width: 340px) {
+    .my-div{
+       width: 80px;
+    }
+   }
+
+   @media (min-width: 341px) and (max-width: 370px) {
+    .my-div{
+       width: 100px;
+    }
+   }
+
+/* For screen width between 301px and 400px */
+@media (min-width: 371px) and (max-width: 400px) {
+ .my-div{
+    width: 105px;
+ }
+}
+
+/* For screen width between 401px and 500px */
+@media (min-width: 401px) and (max-width: 430px) {
+ .my-div{
+   width: 118px;
+ }
+}
+
+@media (min-width: 431px) and (max-width: 450px) {
+    .my-div{
+      width: 134px;
+    }
+   }
+
+@media (min-width: 451px) and (max-width: 500px) {
+    .my-div{
+      width: 160px;
+    }
+   }
+
+/* For screen width between 501px and 550px */
+@media (min-width: 501px) and (max-width: 550px) {
+ .my-div{
+     width: 180px;
+ }
+}
+
+/* For screen width between 551px and 600px */
+@media (min-width: 551px) and (max-width: 600px) {
+ .my-div{
+      width: 200px;
+ }
+}
+
+/* For screen width between 601px and 640px */
+@media (min-width: 601px) and (max-width: 640px) {
+ .my-div{
+       width: 230px;
+ }
+}
+
+/* For screen width between 641px and 700px */
+@media (min-width: 641px) and (max-width: 700px) {
+ .my-div{
+
+ }
+}
+
+/* For screen width between 701px and 740px */
+@media (min-width: 701px) and (max-width: 740px) {
+ .my-div{
+
+ }
+}
+
+@media (min-width: 750px) and (max-width: 900px) {
+    .my-div{
+      width: 290px;
+    }
+ }

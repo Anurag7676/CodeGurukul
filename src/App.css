@@ -1,0 +1,57 @@
+*{
+    box-sizing: border-box;
+
+}
+.bg_home{
+    background-image: url("./assets/Images/bghome.svg");
+}
+.bg-grad{
+    opacity: 0.6;
+    filter: blur(34px);
+    background: linear-gradient(117.82deg, #9CECFB -9.12%, #65C7F7 48.59%, #0052D4 106.3%);
+}
+.bdr{
+    border:1px dashed blue;
+    margin-top: 1rem;
+}
+.conical-gradient {
+    background: conic-gradient(from 120deg, #1FA2FF -3.62%, #12D8FA 50.44%, #A6FFCB 104.51%);
+    opacity: 0.2;
+    filter: blur(34px);
+  }
+  sup{
+    color: red;
+  }
+  .active{
+   color:yellow;
+  }
+  .text-gradient{
+    color: #8a2387; /* fallback for old browsers */
+    color: -webkit-linear-gradient(to right, #8a2387, #e94057, #f27121);
+    color: linear-gradient(to right, #8a2387, #e94057, #f27121);
+  }
+
+  body {
+    scrollbar-width:thin;
+  }
+  body::-webkit-scrollbar {
+    width: 1px;
+  }
+  .scrollable-outlet {
+    scrollbar-width: thin;
+   
+  }
+  
+  .scrollable-outlet::-webkit-scrollbar {
+    width: 1px;
+  }
+  
+  .scrollable-outlet::-webkit-scrollbar-thumb {
+    background-color: #000814;
+    border-radius: 3px;
+  }
+  
+  .scrollable-outlet::-webkit-scrollbar-track {
+    background-color: transparent;
+  }
+  
