@@ -2,14 +2,14 @@
 
 ## Description
 ## Project Goals:
-# Data Visualization Excellence:
+### Data Visualization Excellence:
 Harness the capabilities of Chart.js to transform raw data into engaging, interactive charts and graphs. Whether it's line charts, bar graphs, pie charts, or more, this project will empower you to represent data in the most compelling and informative way
-# Seamless User Experience: 
+### Seamless User Experience: 
 Utilize React.js to create a dynamic and responsive user interface that seamlessly adapts to various screen sizes and devices. With React's component-based architecture, you'll build a user interface that is modular, maintainable, and user-friendly
 
-# State Management: 
+### State Management: 
 Dive into the world of Redux, a powerful state management library that ensures consistent data flow and predictable updates across your application. By centralizing your application's state, you'll achieve better organization, debugging, and scalability.
-# Stunning Design: 
+### Stunning Design: 
 Leverage the capabilities of Tailwind CSS, a utility-first CSS framework, to craft a visually stunning and consistent design. Tailwind's responsive design principles will make sure your dashboard looks and feels great on every device, without the headache of writing extensive custom CSS.
 
 This is a starter pack for creating React projects with Tailwind CSS configured. It uses React version **18.2** and Tailwind CSS version **3.2**.
