@@ -1,7 +1,7 @@
 # React & Tailwind CSS Starter Pack for code gurukul
 
 ## Description
-## Project Goals:
+
 ### Data Visualization Excellence:
 Harness the capabilities of Chart.js to transform raw data into engaging, interactive charts and graphs. Whether it's line charts, bar graphs, pie charts, or more, this project will empower you to represent data in the most compelling and informative way
 ### Seamless User Experience: 
